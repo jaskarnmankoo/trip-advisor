@@ -1,4 +1,4 @@
-# Trip-Advisor
+# trip-advisor
 
 A project done in pairs that involved implementing a trip advisor using Dijkstra's Algorithm.
 
